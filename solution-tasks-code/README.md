@@ -1,5 +1,5 @@
 # Typo & Update
-There is typo in the ipnyb markup text for additional task (task 3)
+There is typo in the ipnyb markup text for additional task (task 3).
 Each of the models separately are trained on different subset of original data
 
 1. jet0_run0
